@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ramesh Shrestha. I am a professional software developer with professional experience building enterprise software and web applications using C#, Angular, PHP, and dot net frameworks
+- 👋 Hi, I’m Ramesh Shrestha. I'm a professional software developer with professional experience building enterprise software and web applications using C#, Angular, PHP, and dot net frameworks
 - 👀 I’m interested in learning machine learning and data science.
 - 🌱 I’m currently learning machine learning and artificial intelligence.
 - 💞️ I’m looking to collaborate on open source projects.
